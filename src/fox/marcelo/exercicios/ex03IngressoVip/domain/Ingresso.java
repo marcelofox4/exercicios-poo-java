@@ -1,4 +1,4 @@
-package fox.marcelo.exerciciosIfpb.ex03.domain;
+package fox.marcelo.exercicios.ex03IngressoVip.domain;
 
 public class Ingresso {
     private double valor;

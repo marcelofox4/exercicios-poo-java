@@ -1,7 +1,7 @@
-package fox.marcelo.exerciciosIfpb.ex03.test;
+package fox.marcelo.exercicios.ex03IngressoVip.test;
 
-import fox.marcelo.exerciciosIfpb.ex03.domain.Ingresso;
-import fox.marcelo.exerciciosIfpb.ex03.domain.IngressoVip;
+import fox.marcelo.exercicios.ex03IngressoVip.domain.Ingresso;
+import fox.marcelo.exercicios.ex03IngressoVip.domain.IngressoVip;
 
 public class IngressoTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package fox.marcelo.exerciciosIfpb.ex02.domain;
+package fox.marcelo.exercicios.ex02ContaBancariaImposto.domain;
 
 public class ContaImposto extends ContaBancaria {
 

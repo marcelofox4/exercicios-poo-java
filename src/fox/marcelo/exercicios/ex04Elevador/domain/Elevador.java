@@ -1,4 +1,4 @@
-package fox.marcelo.exerciciosIfpb.ex04.domain;
+package fox.marcelo.exercicios.ex04Elevador.domain;
 
 public class Elevador {
 

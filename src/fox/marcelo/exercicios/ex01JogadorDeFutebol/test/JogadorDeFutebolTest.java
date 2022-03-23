@@ -1,6 +1,6 @@
-package fox.marcelo.exerciciosIfpb.ex01.test;
+package fox.marcelo.exercicios.ex01JogadorDeFutebol.test;
 
-import fox.marcelo.exerciciosIfpb.ex01.domain.JogadorDeFutebol;
+import fox.marcelo.exercicios.ex01JogadorDeFutebol.domain.JogadorDeFutebol;
 
 public class JogadorDeFutebolTest {
     public static void main(String[] args) {

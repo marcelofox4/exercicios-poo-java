@@ -1,4 +1,4 @@
-package fox.marcelo.exerciciosIfpb.ex02.domain;
+package fox.marcelo.exercicios.ex02ContaBancariaImposto.domain;
 
 public class ContaBancaria {
     protected static int GERADOR_NUMEROS;

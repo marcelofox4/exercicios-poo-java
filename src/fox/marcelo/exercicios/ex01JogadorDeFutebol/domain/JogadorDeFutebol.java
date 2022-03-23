@@ -1,4 +1,4 @@
-package fox.marcelo.exerciciosIfpb.ex01.domain;
+package fox.marcelo.exercicios.ex01JogadorDeFutebol.domain;
 
 import java.text.DateFormat;
 import java.text.ParseException;

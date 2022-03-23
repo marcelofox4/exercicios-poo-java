@@ -1,7 +1,7 @@
-package fox.marcelo.exerciciosIfpb.ex02.test;
+package fox.marcelo.exercicios.ex02ContaBancariaImposto.test;
 
-import fox.marcelo.exerciciosIfpb.ex02.domain.ContaBancaria;
-import fox.marcelo.exerciciosIfpb.ex02.domain.ContaImposto;
+import fox.marcelo.exercicios.ex02ContaBancariaImposto.domain.ContaBancaria;
+import fox.marcelo.exercicios.ex02ContaBancariaImposto.domain.ContaImposto;
 
 public class ContaBancariaTest {
     public static void main(String[] args) {

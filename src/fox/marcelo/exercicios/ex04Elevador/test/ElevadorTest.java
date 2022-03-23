@@ -1,6 +1,6 @@
-package fox.marcelo.exerciciosIfpb.ex04.test;
+package fox.marcelo.exercicios.ex04Elevador.test;
 
-import fox.marcelo.exerciciosIfpb.ex04.domain.Elevador;
+import fox.marcelo.exercicios.ex04Elevador.domain.Elevador;
 
 public class ElevadorTest {
     public static void main(String[] args) {
