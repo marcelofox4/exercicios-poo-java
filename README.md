@@ -42,3 +42,13 @@ trabalho. Escreva os seguintes métodos para esta classe:
 
 - media(): calcula a média final do aluno (cada prova tem peso 2,5 e o trabalho tem peso 2);
 - final(): calcula quanto o aluno precisa para a prova final (retorna zero se ele não for para a final)
+
+9 - Crie uma classe em Java chamada Data que inclui três informações como variáveis
+de instância:
+mês (int),
+dia (int)
+e ano (int).
+A classe deve ter métodos get e set para cada variável e um construtor que inicializa as variáveis e
+assume que os valores fornecidos são corretos. Forneça um método displayData que exibe o dia, o
+mês e o ano separados por barras normais ( / ). Escreva um aplicativo de teste chamado DataTeste
+que demonstra as capacidades da classe Data.
