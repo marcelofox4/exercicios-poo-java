@@ -52,3 +52,5 @@ A classe deve ter métodos get e set para cada variável e um construtor que ini
 assume que os valores fornecidos são corretos. Forneça um método displayData que exibe o dia, o
 mês e o ano separados por barras normais ( / ). Escreva um aplicativo de teste chamado DataTeste
 que demonstra as capacidades da classe Data.
+
+10 - Crie uma classe calculadora. Esta classe deve ser abstrata e implementar as operações básicas (soma, subtração, divisão e multiplicação). Utilizando o conceito de herança crie uma classe chamada calculadora cientifica que implementa os seguintes cálculos: raiz quadrada e a potência. Dica utilize a classe Math do pacote java.lang.
