@@ -104,10 +104,6 @@ public class Data implements Cloneable{
         return false;
     }
 
-    public Data clone(Data data){
-        return data;
-    }
-
     @Override
     public Data clone() throws CloneNotSupportedException {
         return (Data) super.clone();
