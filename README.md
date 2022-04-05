@@ -54,3 +54,21 @@ mês e o ano separados por barras normais ( / ). Escreva um aplicativo de teste 
 que demonstra as capacidades da classe Data.
 
 10 - Crie uma classe calculadora. Esta classe deve ser abstrata e implementar as operações básicas (soma, subtração, divisão e multiplicação). Utilizando o conceito de herança crie uma classe chamada calculadora cientifica que implementa os seguintes cálculos: raiz quadrada e a potência. Dica utilize a classe Math do pacote java.lang.
+
+11 - Escreva uma classe Data cuja instância (objeto) represente uma data. Esta classe deverá dispor dos
+seguintes métodos:
+
+- **construtor**: define a data que determinado objeto (através de parâmetro), este método verifica se a
+  data está correta, caso não esteja a data é configurada como 01/01/0001;
+- **compara**: recebe como parâmetro um outro objeto da Classe data, compare com a data corrente e
+  retorne: 
+  - 0 se as datas forem iguais;
+  - 1 se a data corrente for maior que a do parâmetro;
+  - 1 se a data do parâmetro for maior que a corrente.
+
+- **getDia**: retorna o dia da data;
+- **getMes**: retorna o mês da data;
+- **getMesExtenso**: retorna o mês da data corrente por extenso;
+- **getAno**: retorna o ano da data;
+- **isBissexto**: retorna verdadeiro se o ano da data corrente for bissexto e falso caso contrário;
+- **clone**: o objeto clona a si próprio, para isto, ele cria um novo objeto da classe Data com os mesmos valores de atributos e retorna sua referência pelo método.
